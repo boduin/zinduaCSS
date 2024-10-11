@@ -1,0 +1,24 @@
+  h2{
+  color: red;
+ }
+ h1{
+      color: grey;
+  }
+  p{
+      color:rgb(rgba(172, 62, 62, 0), rgba(135, 175, 55, 0.549), #0099ff69);
+ }
+ section{
+    text-align: left;
+ }
+ .my-section{
+    font-family: 'Courier New', Courier, monospace;
+    color: chocolate;
+ }
+ section{
+    font-weight: bold;
+    font-style: oblique;
+    text-align: left;
+ }
+ h1{
+    text-transform: capitalize;
+ }
