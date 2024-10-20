@@ -2,12 +2,18 @@
 
 body {
     font-family: Arial, sans-serif;
+    background-image: url('assets/hi.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    
+    background-color:rgba(128, 128, 128, 0.251)
 }
 
 #hero {
-    background: url('hero-background.jpg') center center/cover no-repeat;
-    color: #fff;
-    height: 100vh;
+    background: url('assets/hi.jpg') center center/cover no-repeat;
+    background-color:powderblue
+    
 }
 
 #about img {
